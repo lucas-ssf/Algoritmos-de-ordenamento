@@ -1,0 +1,3 @@
+C:/Users/Lucas/CLionProjects/Merge_sort/cmake-build-debug/CMakeFiles/Merge_sort.dir
+C:/Users/Lucas/CLionProjects/Merge_sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lucas/CLionProjects/Merge_sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
